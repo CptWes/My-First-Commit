@@ -3,4 +3,5 @@
 
 Even een aanpassing
 
-Een pull haalt informatie uit de branch en an zien of er changes zijn gemaakt.
+git pull: Haalt aanpassingen en informatie van de respository, en maakt veranderingen in je file.
+git DIR: Laat je directory zien van je geselecteerde map met informatie over de bestanden die er in zitten.
